@@ -1,7 +1,5 @@
 # Ignore all files except the src folder, textng.xml, and .gitignore
 *
-
-# Unignore specific files and folders
 !src/
 !textng.xml
 !.gitignore
