@@ -5,3 +5,6 @@
 !src/
 !textng.xml
 !.gitignore
+
+# Ignore .idea folder
+.idea/
